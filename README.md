@@ -34,6 +34,13 @@ When a person applies for a loan, there are two types of decisions that could be
 - Bivariate analysis
 
 
+## Libraries Used
+- Pandas - version 1.4.1
+- matplotlib - version 3.4.3
+- seaborn  - version 0.11.2
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
@@ -42,13 +49,6 @@ When a person applies for a loan, there are two types of decisions that could be
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
-## Libraries Used
-- Pandas - version 1.4.1
-- matplotlib - version 3.4.3
-- seaborn  - version 0.11.2
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contributors
 * Phuc Thanh Nguyen
