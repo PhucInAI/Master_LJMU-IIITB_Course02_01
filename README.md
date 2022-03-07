@@ -3,8 +3,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Steps](#general-information)
+* [Libraries Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Contributors](#acknowledgements)
 
@@ -32,7 +32,7 @@ When a person applies for a loan, there are two types of decisions that could be
 - Data Cleaning
 - Univariate analysis
 - Bivariate analysis
-- Bivariate analysis
+
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -43,7 +43,7 @@ When a person applies for a loan, there are two types of decisions that could be
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Libraries Used
 - Pandas - version 1.4.1
 - matplotlib - version 3.4.3
 - seaborn  - version 0.11.2
