@@ -42,20 +42,20 @@ When a person applies for a loan, there are two types of decisions that could be
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Conclusions
-* From the above analysis, we see that there is a more probability of defaulting when :
-- Applicants having house_ownership as 'RENT'
-- Applicants who use the loan to clear other debts
-- Applicants who receive interest at the rate of 13-17%
-- Applicants who have an income of range 31201 - 58402
-- Applicants with employement length of 10
-- Loan amount is between 5k - 10k
-- Dti is between 12-18
-- When monthly installments are between 145-274
-- Term is 36 months
-- When the loan status is Not verified
-- When the no of enquiries in last 6 months is 0
-- When the number of derogatory public records is 0
-- When the purpose is 'debt_consolidation'
+- From the above analysis, we see that there is a more probability of defaulting when :
+    * Applicants having house_ownership as 'RENT'
+    * Applicants who use the loan to clear other debts
+    * Applicants who receive interest at the rate of 13-17%
+    * Applicants who have an income of range 31201 - 58402
+    * Applicants with employement length of 10
+    * Loan amount is between 5k - 10k
+    * Dti is between 12-18
+    * When monthly installments are between 145-274
+    * Term is 36 months
+    * When the loan status is Not verified
+    * When the no of enquiries in last 6 months is 0
+    * When the number of derogatory public records is 0
+    * When the purpose is 'debt_consolidation'
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
